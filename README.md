@@ -10,7 +10,7 @@ Questo è un semplice repository basato su **Python**.
 
 1. Clona il repository:
 
-git clone https://github.com/MarioGiagnotti/Esercizi-numeri-e-stringhe-in-Python.git
+git clone https://github.com/MarioGiagnotti/Istruzioni-condizionali-in-Python.git
 
 oppure fare il Download del file .zip
 
